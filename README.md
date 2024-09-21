@@ -8,3 +8,10 @@ Python: Programming language used for implementation.
 Pandas and Numpy: For data manipulation and numerical operations.
 Matplotlib and Seaborn: For data visualization.
 Scikit-learn: For machine learning algorithms and evaluation metrics.
+
+# Expected Outcomes:
+By the end of this project, we aim to:
+
+Gain a thorough understanding of the Iris dataset.
+Successfully implement and evaluate a machine learning model for classifying Iris species.
+Draw meaningful insights from the data and model evaluation metrics.
